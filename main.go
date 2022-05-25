@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/griesbacher/check_influxdb/mode"
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_influxdb/mode"
+	"github.com/Griesbacher/check_x"
 	"github.com/urfave/cli"
 	"os"
 	"time"

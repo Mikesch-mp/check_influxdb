@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/griesbacher/check_x"
+	"github.com/Griesbacher/check_x"
 	"github.com/influxdata/influxdb/client/v2"
 	"sort"
 	"strconv"

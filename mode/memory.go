@@ -3,8 +3,8 @@ package mode
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/griesbacher/check_x"
-	"github.com/griesbacher/check_x/Units"
+	"github.com/Griesbacher/check_x"
+	"github.com/Griesbacher/check_x/Units"
 	"github.com/influxdata/influxdb/client/v2"
 )
 
