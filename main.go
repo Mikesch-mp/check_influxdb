@@ -323,6 +323,6 @@ func main() {
 	}
 
 	if err := app.Run(os.Args); err != nil {
-		check_x.ErrorExit(err)
+		check_x.ExitOnError(err)
 	}
 }
