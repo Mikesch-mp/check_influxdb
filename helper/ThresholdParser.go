@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"github.com/Griesbacher/check_x"
+	"github.com/griesbacher/check_x"
 	"strings"
 )
 

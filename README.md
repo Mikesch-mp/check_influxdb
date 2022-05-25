@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/Griesbacher/check_influxdb/tree/master.svg?style=svg)](https://circleci.com/gh/Griesbacher/check_influxdb/tree/master)
+[![Circle CI](https://circleci.com/gh/griesbacher/check_influxdb/tree/master.svg?style=svg)](https://circleci.com/gh/griesbacher/check_influxdb/tree/master)
 # check_influxdb
 Monitoring Plugin to check the health of an InfluxDB and data
 
@@ -8,8 +8,8 @@ Monitoring Plugin to check the health of an InfluxDB and data
 $ go run main.go -h
 NAME:
    check_influxdb - Checks different influxdb stats
-   Copyright (c) 2016 Philip Griesbacher
-   https://github.com/Griesbacher/check_influxdb
+   Copyright (c) 2016 Philip griesbacher
+   https://github.com/griesbacher/check_influxdb
 
 USAGE:
    main.exe [global options] command [command options] [arguments...]

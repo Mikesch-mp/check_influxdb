@@ -1,11 +1,11 @@
 package mode
 
 import (
-	"github.com/Griesbacher/check_x/Units"
+	"github.com/griesbacher/check_x/Units"
 
 	"bytes"
 	"fmt"
-	"github.com/Griesbacher/check_x"
+	"github.com/griesbacher/check_x"
 	"io/ioutil"
 	"os"
 	"path"
